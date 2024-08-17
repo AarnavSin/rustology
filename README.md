@@ -1,0 +1,2 @@
+# rustology
+Learning Rust.
